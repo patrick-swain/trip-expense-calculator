@@ -1,0 +1,31 @@
+Shakira should pay:
+- Patrick: $5.00
+- Bertrude: $5.00
+- Zamboni: $2.00
+- Walter: $8.33
+Bertrude should pay:
+- Patrick: $5.00
+- Walter: $8.33
+Zamboni should pay:
+- Patrick: $5.00
+- Shakira: $1.25
+- Walter: $8.33
+Walter should pay:
+- Patrick: $5.00
+- Shakira: $1.25
+Gertrude should pay:
+- Patrick: $5.00
+- Shakira: $1.25
+- Bertrude: $5.00
+- Walter: $8.33
+Patrick should pay:
+- Bertrude: $5.00
+- Zamboni: $2.00
+- Walter: $8.33
+
+Total amount each purchaser should receive:
+Patrick: $25.00 (Shakira: $5.00, Bertrude: $5.00, Zamboni: $5.00, Walter: $5.00, Gertrude: $5.00)
+Shakira: $3.75 (Gertrude: $1.25, Walter: $1.25, Zamboni: $1.25)
+Bertrude: $15.00 (Gertrude: $5.00, Shakira: $5.00, Patrick: $5.00)
+Zamboni: $4.00 (Shakira: $2.00, Patrick: $2.00)
+Walter: $41.67 (Shakira: $8.33, Bertrude: $8.33, Zamboni: $8.33, Patrick: $8.33, Gertrude: $8.33)
